@@ -43,7 +43,7 @@ Here are some key screenshots showcasing the functionality of both the **Admin**
   * The **Admin Dashboard** gives an overview of all HR operations and system performance.
 
 * **Clearance Management**:
-  ![Clearance Management](CAAD%20Information%20Management%20System/clearance.png)
+  ![Clearance Management](CAAD%20Information%20Management%20System/clearnce.png)
 
   * Manage employee clearance processes through the admin interface.
 
